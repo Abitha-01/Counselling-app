@@ -11,12 +11,8 @@ void main() async {
    WidgetsFlutterBinding.ensureInitialized();
    await Firebase.initializeApp(
     options:FirebaseOptions(
-   
-        apiKey: 'AIzaSyDy3XEom5ct9fuMu9Z4lXVVqoYhuu6JOgY',
-    appId: '1:600163443309:web:7068ee5201e34ddfcbd564',
-    messagingSenderId: '600163443309',
-    projectId: 'collegecounsel24935',
-   ) );
+   //add yours
+    );
   
   runApp(MyApp());
 }
