@@ -23,19 +23,7 @@ Dart SDK: Comes bundled with Flutter
 An IDE like Android Studio or VS Code
 
 Installation
-Clone the repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/Abitha-01/Counselling-app.git
-cd Counselling-app
-Navigate to the project directory:
-
-bash
-Copy
-Edit
-cd lib
 Get the required packages:
 
 bash
