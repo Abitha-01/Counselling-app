@@ -1,4 +1,6 @@
-#CounselEase
+##CounselEase 
+
+
 A Flutter-based web application designed to facilitate online counseling sessions. This app aims to provide users with an intuitive interface to connect with counselors, schedule sessions, and access resources.
 
 🚀 Features
